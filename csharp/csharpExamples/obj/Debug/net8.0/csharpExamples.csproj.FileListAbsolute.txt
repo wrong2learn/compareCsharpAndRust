@@ -1,0 +1,14 @@
+C:\dev\wrong2learn\posts\compareCsharpAndRust\csharp\csharpExamples\bin\Debug\net8.0\csharpExamples.exe
+C:\dev\wrong2learn\posts\compareCsharpAndRust\csharp\csharpExamples\bin\Debug\net8.0\csharpExamples.deps.json
+C:\dev\wrong2learn\posts\compareCsharpAndRust\csharp\csharpExamples\bin\Debug\net8.0\csharpExamples.runtimeconfig.json
+C:\dev\wrong2learn\posts\compareCsharpAndRust\csharp\csharpExamples\bin\Debug\net8.0\csharpExamples.dll
+C:\dev\wrong2learn\posts\compareCsharpAndRust\csharp\csharpExamples\bin\Debug\net8.0\csharpExamples.pdb
+C:\dev\wrong2learn\posts\compareCsharpAndRust\csharp\csharpExamples\obj\Debug\net8.0\csharpExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\wrong2learn\posts\compareCsharpAndRust\csharp\csharpExamples\obj\Debug\net8.0\csharpExamples.AssemblyInfoInputs.cache
+C:\dev\wrong2learn\posts\compareCsharpAndRust\csharp\csharpExamples\obj\Debug\net8.0\csharpExamples.AssemblyInfo.cs
+C:\dev\wrong2learn\posts\compareCsharpAndRust\csharp\csharpExamples\obj\Debug\net8.0\csharpExamples.csproj.CoreCompileInputs.cache
+C:\dev\wrong2learn\posts\compareCsharpAndRust\csharp\csharpExamples\obj\Debug\net8.0\csharpExamples.dll
+C:\dev\wrong2learn\posts\compareCsharpAndRust\csharp\csharpExamples\obj\Debug\net8.0\refint\csharpExamples.dll
+C:\dev\wrong2learn\posts\compareCsharpAndRust\csharp\csharpExamples\obj\Debug\net8.0\csharpExamples.pdb
+C:\dev\wrong2learn\posts\compareCsharpAndRust\csharp\csharpExamples\obj\Debug\net8.0\csharpExamples.genruntimeconfig.cache
+C:\dev\wrong2learn\posts\compareCsharpAndRust\csharp\csharpExamples\obj\Debug\net8.0\ref\csharpExamples.dll
